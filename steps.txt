@@ -1,0 +1,9 @@
+
+
+uv init
+
+uv venv
+
+activate venv
+
+add requirements.txt
